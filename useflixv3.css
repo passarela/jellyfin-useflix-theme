@@ -586,7 +586,7 @@
   }
   
   #loginPage h1::after {
-    content: "Sign In";
+    content: "Entrar";
     font-size: 32px;
   }
   
