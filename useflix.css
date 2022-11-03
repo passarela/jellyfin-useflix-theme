@@ -1516,7 +1516,9 @@
   .detailLogo {
     display: none;
   }
-  
+  .pageTitleWithDefaultLogo {
+    background-image: url(https://i.imgur.com/HTWpKzY.png);
+  }
   .layout-mobile .detailPageContent {
     padding: 0 !important;
     background: rgb(20, 20, 20);
